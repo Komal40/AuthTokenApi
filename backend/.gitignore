@@ -1,0 +1,30 @@
+# Node.js modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Optional npm cache
+.npm
+
+# IDE specific settings (optional, depends on your IDE)
+.vscode/
+.idea/
+
+# Operating system specific files
+.DS_Store
+Thumbs.db
+
+# Build files
+dist/
+build/
+
+# Ignore coverage results from tests
+coverage/
+
+# Ignore any other specific files or folders
